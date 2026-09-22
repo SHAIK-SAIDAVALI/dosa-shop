@@ -1,10 +1,14 @@
  # Dosa-shop
 
  # Plain-Dosa
- Dosa batter added
- use Light oil 
+
+ 1. Dosa batter added
+ 
+ 2. use Light oil 
 
 
  #Karam Dosa
 
- Dosa batter add
+ 1. Dosa batter add
+
+ 2. add karam
